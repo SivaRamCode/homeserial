@@ -1,5 +1,10 @@
-# homeserial
-some serial urls
-
-
-#Testing Auto Scripts
+#EXTM3U8
+#EXTINF:-1,group-title=Vijay TV Serials tvg-logo=https://www.tamildhool.net/wp-content/uploads/2019/10/bk-1.jpg, Barathi Kannama -sivaram
+https://www.thiraisix.com/v/vijay/1109bk/hd/playlist.m3u8
+#EXTINF:-1,group-title=Vijay TV Serials tvg-logo=https://www.tamildhool.net/wp-content/uploads/2019/10/ps.jpg, Pandian Stores -sivaram
+https://www.thiraisix.com/v/vijay/1109ps/hd/playlist.m3u8
+#EXTINF:-1,group-title=Vijay TV Serials tvg-logo=https://www.tamildhool.net/wp-content/uploads/2020/07/nni.jpg, Naam Iruvar Namakku Iruvar -sivaram
+https://www.thiraisix.com/v/vijay/1109ni/hd/playlist.m3u8
+#EXTINF:-1,group-title=Vijay TV Serials tvg-logo=https://www.tamildhool.net/wp-content/uploads/2021/01/KV.jpg, Kaatrukkenna Veli -sivaram
+https://www.thiraisix.com/v/vijay/1109kv/hd/playlist.m3u8
+Success
